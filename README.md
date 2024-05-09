@@ -7,3 +7,4 @@
 - [2024.05.01 - Global Exception Handling](growth/2024.05.01%20-%20Global%20Exception%20Handling.md)
 - [2024.05.05 - Kafka Replication과 파티션 동기화](growth/2024.05.05%20-%20Kafka%20Replication과%20파티션%20동기화.md)
 - [2024.05.07 - Kafka 멱등성과 Exactly-Once](growth/2024.05.07%20-%20Kafka%20멱등성과%20Exactly-Once.md)
+- [2024.05.10 - HTTP 클라이언트와 RestClient](growth/2024.05.10%20-%20HTTP%20클라이언트와%20RestClient.md)
