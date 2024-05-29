@@ -14,3 +14,4 @@
 - [2024.05.24 - 카카오 공개 기술 세미나 후기](growth/2024.05.24%20-%20카카오%20공개%20기술%20세미나%20후기.md)
 - [2024.05.25 - Java8과 Java9의 차이, 알고 있어?](growth/2024.05.25%20-%20Java8과%20Java9의%20차이,%20알고%20있어%3F.md)
 - [2024.05.28 - Java 21의 새로운 GC, Generational ZGC](growth/2024.05.28%20-%20Java%2021의%20새로운%20GC,%20Generational%20ZGC.md)
+- [2024.05.29 - Kafka의 KRaft Mode](growth/2024.05.29%20-%20Kafka의%20KRaft%20Mode.md)
