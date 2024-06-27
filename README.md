@@ -16,3 +16,4 @@
 - [2024.05.28 - Java 21의 새로운 GC, Generational ZGC](growth/2024.05.28%20-%20Java%2021의%20새로운%20GC,%20Generational%20ZGC.md)
 - [2024.05.29 - Kafka의 KRaft Mode](growth/2024.05.29%20-%20Kafka의%20KRaft%20Mode.md)
 - [2024.06.26 - AWS TechCamp 후기](growth/2024.06.26%20-%20AWS%20TechCamp%20후기.md)
+- [2024.06.28 - 단위 테스트 왜 하는 걸까?](growth/2024.06.28%20-%20단위%20테스트%20왜%20하는%20걸까%3F.md)
